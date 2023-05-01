@@ -1,0 +1,56 @@
+h1{
+  color: rgb(44, 161, 152);
+  
+  font-family: Tahoma, Verdana, sans-serif;
+}
+body{
+    border-style: solid;
+    border-width: 3px;
+    border-top-width: 10px ;
+    border-bottom-width:10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: rgb(44, 161, 152);
+  
+}
+
+aside {         
+    border-right: 1px solid rgb(151, 150, 150);
+    width: 30%;
+    height: 83%;
+    padding-left: 5px;
+    margin-left: 5px;
+    float: left;
+}
+.x{
+  color: rgb(44, 161, 152);
+  font-family: Tahoma, Verdana, sans-serif;
+  
+}
+.info{
+  
+  color: rgb(70, 185, 176);
+  padding-left: 5px;
+  margin-left: 5px;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+.p{
+  
+  padding-left: 10px;
+  margin-left: 10px;
+  color: rgb(21, 91, 161);
+  font-family: Tahoma, Verdana, sans-serif;
+}
+.d{
+  font-size: 14px;
+  font-family: Tahoma, Verdana, sans-serif;
+  color: rgb(165, 72, 72);
+}
+.a{
+  
+  color: rgb(21, 91, 161);
+  font-family: Tahoma, Verdana, sans-serif;
+}
+
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
